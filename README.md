@@ -1,2 +1,4 @@
-# construtor
-just to implement a constructor
+#constructor
+
+constructor e um programa que implementa um construtor.
+[apenas para estudo]
